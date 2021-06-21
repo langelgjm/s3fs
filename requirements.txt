@@ -1,2 +1,2 @@
-aiobotocore>=1.0.1
+git+git://github.com/langelgjm/aiobotocore@master#egg=aiobotocore
 fsspec==2021.06.0
